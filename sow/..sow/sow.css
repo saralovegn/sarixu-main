@@ -96,7 +96,7 @@ nav ul li a:focus {
 }
 h2 {
     font-size: 2.5rem;
-    font-family: Helvetica;
+    font-family: Helvetica, sans-serif;
 }
 @media (min-width: 800px) {
 	.analysis-text {
